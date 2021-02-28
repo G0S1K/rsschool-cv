@@ -1,39 +1,38 @@
 # Curriculum vitae
 
 ## Personal Information
-Gleb Korotkevich</br>
-Gomel, Belarus</br>
-Sex: male | Date of birth: 20 March 2002
-
-korotkevich.glebka@gmail.com</br>
-[Telegram](https://t.me/glebka232)</br>
+Gleb Korotkevich  
+Gomel, Belarus  
+Sex: male | Date of birth: 20 March 2002  
+korotkevich.glebka@gmail.com  
+[Telegram](https://t.me/glebka232)  
 ## My purpose
-* to become a frontend developer
+* becoming a frontend developer
 * studying the popular language of programming JavaScript
 * meeting like-minded people
 
-My strong points are a good communication skills, diligence and good self-learning abilities
+My strong points are good communication skills, diligence and good self-learning abilities
 ## Education and training
-* 2017 - present</br>
-  Gomel Agricultural and Economic Сollege</br>
-  Specialty: IT software</br>
+* 2017 - present  
+  Gomel Agricultural and Economic Сollege  
+  Specialty: IT software  
   Qualification: technician programmer
   
 * October 2020</br>
-  Programming courses on the site "Coursera"</br>
+  Programming courses on the site "Coursera"  
   "Introduction to HTML5", "Interactivity with JavaScript", "Introduction to CSS3"
   
-* November 2020 - December 2020</br>
+* November 2020 - December 2020  
   Programming course for web-developers on the "FreeCodeCamp"
   
-* December 2020 - February 2021<br>
+* December 2020 - February 2021  
   Practical traning from Сollege in hospital as a system administrator.
 
 ## My skills
 * proficiency in PC
-* knowledge of the programming language C#
-* Git
-* HTML and CSS
+* knowledge of the language of programming C#
+* basic level in Git
+* basic level in HTML and CSS
 * methodology of BEM
 * experience of using VSCode, WebStorm, Gulp and SCSS
 * basic level in Photoshop and Figma
