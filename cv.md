@@ -31,8 +31,8 @@ My strong points are good communication skills, diligence and good self-learning
 ## My skills
 * proficiency in PC
 * knowledge of the language of programming C#
-* basic level in Git
-* basic level in HTML and CSS
+* Git
+* HTML and CSS
 * methodology of BEM
 * experience of using VSCode, WebStorm, Gulp and SCSS
 * basic level in Photoshop and Figma
